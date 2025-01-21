@@ -13,6 +13,7 @@
 ## 主題
 
 * [微調腳本](#微調腳本)
+* [ISO](#iso)
 * [相關筆記](#相關筆記)
 
 
@@ -23,6 +24,29 @@
 | 微調腳本 |
 | -------- |
 | [Debian Lxqt Config](https://github.com/samwhelp/debian-lxqt-adjustment/tree/main/prototype/main/lxqt-config/Main) |
+
+
+
+
+## ISO
+
+
+### Build ISO
+
+> [Lika OS / Live Build Config / 探索筆記](https://samwhelp.github.io/note-about-lika-live-build-config/)
+
+
+| Build Debian Lxqt ISO | GitHub |
+| --------------------- | ------ |
+| [lika-live-build-respin-lxqt](https://samwhelp.github.io/lika-live-build-respin-lxqt/) | [GitHub](https://github.com/samwhelp/lika-live-build-respin-lxqt) |
+
+
+| Build Debian Lxqt ISO | GitHub |
+| --------------------- | ------ |
+| [lika-live-build-respin-lxqt-with-kwin](https://samwhelp.github.io/lika-live-build-respin-lxqt-with-kwin/) | [GitHub](https://github.com/samwhelp/lika-live-build-respin-lxqt-with-kwin) |
+
+
+> [EznixOS 探索筆記](https://samwhelp.github.io/note-about-eznixos/)
 
 
 
